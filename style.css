@@ -398,9 +398,9 @@ padding-top: 30px;
     body{
         width: 100%;
     }
-    .header{
-        /* padding-top: -20px; */
-    }
+    /* .header{
+        padding-top: -20px;
+    } */
     .logo{
         position: relative;
         z-index: 1;
